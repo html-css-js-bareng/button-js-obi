@@ -1,0 +1,35 @@
+.click {
+  background-color: cadetblue;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.reset {
+  background-color: crimson;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.container {
+  font-size: 24px;
+  margin: 25px;
+  width: 350px;
+  height: 200px;
+  outline: solid 1px black;
+  background-color: antiquewhite;
+  color: black;
+}
+
+.result {
+  text-align: center;
+}
